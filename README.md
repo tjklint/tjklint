@@ -6,3 +6,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjklint&show_icons=true&locale=en&layout=compact" alt="tjklint" /></p>
 
+<!--Credit to: https://rahuldkjain.github.io/gh-profile-readme-generator/ for the generator that made this README!-->
