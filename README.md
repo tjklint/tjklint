@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Timothy (TJ) Klint</h1>
+<h1 align="center">Hi/Salut 👋, I'm Timothy (TJ) Klint</h1>
 <h3 align="center">A passionate student and software developer from Montreal!</h3>
 
 <h3 align="left">Languages and Tools:</h3>
