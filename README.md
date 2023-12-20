@@ -1,7 +1,7 @@
 <h1 align="center">Hi/Salut 👋, I'm Timothy (TJ) Klint</h1>
 <h3 align="center">A passionate student and software developer from Montreal!</h3>
 
-## 💫 What's I'm currently working on:
+## 💫 What I'm currently working on:
 <p>🔭 I'm currently working on Various Arduino Projects.</p>
 <p>🌱 I'm currently learning ReactJS, Android Development/Kotlin</p>
 
