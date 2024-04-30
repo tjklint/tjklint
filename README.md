@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name's TJ, a software developer located in Montreal, QC 🍁🍁</h2>
+<h2 align="left">Hello! My name's TJ, a software developer located in Montreal, QC 🍁</h2>
 
 ###
 
