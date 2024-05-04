@@ -50,6 +50,6 @@
 
 <h3 align="left">Stars</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20" alt="tjklint" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&hide=html,css" alt="tjklint" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight" alt="tjklint" />
 </p>
