@@ -1,5 +1,5 @@
 <h1 align="center">Salut/Hello! I am TJ</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=flat" alt="tjklint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" /> </p>
 
 - 📫 How to reach me **timothyjklint@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
