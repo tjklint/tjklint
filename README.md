@@ -48,6 +48,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+> [!NOTE]
+> This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in public repositories.
+
 <h3 align="left">Stars</h3>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" />
