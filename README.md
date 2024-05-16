@@ -49,7 +49,7 @@
 </p>
 
 > [!NOTE]
-> This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in public repositories.
+> This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in public repositories on GitHub.
 
 <h3 align="left">Stars</h3>
 <p align="left">
