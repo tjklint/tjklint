@@ -48,7 +48,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Stats</h3>
 
 > [!NOTE]
 > This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <b>public</b> repositories on GitHub.
