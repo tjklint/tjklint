@@ -1,12 +1,15 @@
-### Hi/Salut! I'm TJ 🤵‍♂️, a software engineer/developer and ethical hacking enthusiast from Montreal, QC.
-I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.
+### Hi/Salut! I'm TJ 🤵‍♂️
+I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI. Here's some facts about me:
+- 💻 Currently interning at Bell as a Software Development Intern.
+- 👾 I have a few projects in development, like my portfolio website and ASLingo, an online AI-powered ASL learning tool.
+- 🏌️‍♂️ If you want to power off, you can catch me on a golf course or hockey rink 🏒
+
+#### Let's Connect!
 - 📫 How to reach me **timothyjklint@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
 - 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  </p>
-
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -43,7 +46,7 @@ I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Comp
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stats</h3>
+#### Statistics for Nerds:
 
 > [!NOTE]
 > This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <b>public</b> repositories on GitHub.
@@ -52,3 +55,6 @@ I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Comp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight" alt="tjklint" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  </p>
+
