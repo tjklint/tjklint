@@ -53,4 +53,4 @@ I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Comp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  </p>
 
-<!-- This is a super secret comment, if you found it... Have a good day :p -->
+<!-- This is a super secret comment, if you found it... Have a good day :pppp -->
