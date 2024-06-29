@@ -4,7 +4,7 @@ I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Comp
 - 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
 - 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**
 
-<!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools. -->
+<!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc... -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
