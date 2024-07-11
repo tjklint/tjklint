@@ -1,8 +1,8 @@
 # Hi/Salut! I'm TJ
-<!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.
+<!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
 - 📫 How to reach me **timothyjklint@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
-- 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**-->
+- 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**
 
 <!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc. 
 <h3 align="left">Languages and Tools:</h3>
