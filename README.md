@@ -1,10 +1,10 @@
-### Hi/Salut! I'm TJ
-I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.
+# Hi/Salut! I'm TJ
+<!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.
 - 📫 How to reach me **timothyjklint@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
-- 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**
+- 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**-->
 
-<!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc. -->
+<!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc. 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
@@ -41,6 +41,8 @@ I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Comp
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+-->
 
 <h3 align="left">Stats</h3>
 
