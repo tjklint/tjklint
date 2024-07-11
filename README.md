@@ -44,7 +44,9 @@
 
 -->
 
+<!--
 <h3 align="left">Stats</h3>
+-->
 
 > [!NOTE]
 > This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <b>public</b> repositories on GitHub.
