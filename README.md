@@ -46,7 +46,7 @@
 -->
 
 > [!NOTE]
-> This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <b>public</b> repositories on GitHub.
+> This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <i><b>public</b></i> repositories on GitHub.
 
 <p align="left">
   <!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" /> -->
