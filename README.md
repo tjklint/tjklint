@@ -48,10 +48,10 @@
 > [!NOTE]
 > This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <i><b>public</b></i> repositories on GitHub.
 
-<p align="left">
+<!--<p align="left">-->
   <!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" /> -->
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight" alt="tjklint" />
-</p>
+<!--</p>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  </p>
 
