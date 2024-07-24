@@ -2,7 +2,7 @@
 <!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
 
 ### Check out my all new portfolio site!
-Want to learn a bit more about me and my experiences check out my new custom-made portfolio site: [https://tjklint.github.io](https://tjklint.github.io)
+Want to learn a bit more about me and my experiences? Check out my new custom-made portfolio site: [https://tjklint.github.io](https://tjklint.github.io)
 - 📫 How to reach me: **timothyjklint@gmail.com**
 - 📄 Know about my experiences: **[Check out my resume!](https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing)**
 - 🤝 Connect with me: **https://www.linkedin.com/in/timothy-klint/**
