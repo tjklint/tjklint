@@ -1,8 +1,12 @@
 # Hi/Salut! I'm TJ 👋👋👋
 <!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
-- 📫 How to reach me **timothyjklint@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing**
-- 🤝 Connect with me **https://www.linkedin.com/in/timothy-klint/**
+
+### Check out my all new portfolio site!
+Want to learn a bit more about me and my experiences check out my new custom-made portfolio site: [https://tjklint.github.io](https://tjklint.github.io)
+- 📫 How to reach me: **timothyjklint@gmail.com**
+- 📄 Know about my experiences: **[Check out my resume!](https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing)**
+- 🤝 Connect with me: **https://www.linkedin.com/in/timothy-klint/**
+
 
 <!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc. 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,12 +45,16 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+-->
 
+<!--
 <h3 align="left">Stats</h3>
 -->
 
+
 > [!NOTE]
 > This is not a representation of my skill level or anything like that. It's purely just data compiled of the languages that I have used the most in <i><b>public</b></i> repositories on GitHub.
+
 
 <!--<p align="left">-->
   <!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" /> -->
