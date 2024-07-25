@@ -9,7 +9,6 @@ Want to learn a bit more about me and my experiences? Check out my new custom-ma
 - 📄 Know about my experiences: **[Check out my resume!](https://drive.google.com/file/d/1lu80YAIwnfPQ4X3biBm__4uldH7Pw7cV/view?usp=sharing)**
 - 🤝 Connect with me: **https://www.linkedin.com/in/timothy-klint/**
 
-
 <!-- TODO: Make this a table specifying Languages, Frameworks/Libraries, Dev Tools, etc. 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,4 +64,4 @@ Want to learn a bit more about me and my experiences? Check out my new custom-ma
 
 <!-- This is a super secret comment, if you found it... Have a good day :pppppppppppp -->
 
-<b>Want to support me? Give me a ⭐ on the repos you like!</b>
+<b>Want to support my work? Give me a ⭐ on the repos you like!</b>
