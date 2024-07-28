@@ -64,4 +64,4 @@ Want to learn a bit more about me and my experiences? Check out my new custom-ma
 
 <!-- This is a super secret comment, if you found it... Have a good day :pppppppppppp -->
 
-<b>Want to support my work? Give me a ⭐ on the repos you like!</b>
+<h6>Want to support my work? Give me a ⭐ on the repos you like!</h6>
