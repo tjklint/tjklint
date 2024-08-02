@@ -62,6 +62,6 @@ Want to learn a bit more about me and my experiences? Check out my new custom-ma
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight" alt="tjklint" />
 <!--</p>-->
 
-<!-- This is a super secret comment, if you found it... Have a good day :pppppppppppp -->
+<!-- This is a super secret comment, if you found it... Have a good day :p -->
 
 <h6>Want to support my work? Give me a ⭐ on the repos you like!</h6>
