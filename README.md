@@ -1,4 +1,4 @@
-# Hi/Salut! I'm TJ 👋
+# Hi/Salut! I'm TJ 👋👋
 <!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  </p>
