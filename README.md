@@ -4,7 +4,7 @@
 <!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
 
 - 📫 How to reach me: **timothyjklint@gmail.com**
-- 📄 Know about my experiences: [tjklint.github.io](tjklint.github.io)
+- 📄 Know about my experiences: **[tjklint.github.io](tjklint.github.io)**
 - 🤝 Connect with me: **https://www.linkedin.com/in/timothy-klint/**
 
 > [!NOTE]
