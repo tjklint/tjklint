@@ -1,5 +1,5 @@
 ![](banner2.gif)
-# Hi/Salut/Välkommen! I'm TJ 👋
+# Hi/Salut/Välkommen! I'm TJ 👋 🇨🇦 🇫🇷 🇸🇪
 
 <!--I'm currently in my 3rd (& final 🥳) year at John Abbott College studying Computer Science. My interests lie heavily in ethical hacking, the link between finance & technology, accessibility, and real-world use cases for ML/AI.-->
 
