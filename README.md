@@ -21,10 +21,12 @@
 ### Stats for Nerds 📊
 <p align="left">
   <!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" /> -->
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight&width=400&show=reviews" alt="tjklint" />
-<!--<img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight&width=400&show=reviews&rank_icon=percentile" alt="tjklint" /> -->
+  
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight&width=400&show=reviews" alt="tjklint" />
+  
+  <!--<img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight&width=400&show=reviews&rank_icon=percentile" alt="tjklint" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&langs_count=12&hide=HTML,CSS&theme=tokyonight" alt="tjklint" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&langs_count=12&hide=HTML,CSS&theme=tokyonight" alt="tjklint" />
 </p>
   
 > [!NOTE]
