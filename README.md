@@ -1,4 +1,5 @@
 ![](banner2.gif)
+
 # Hi/Salut/Välkommen! I'm TJ 👋 🇨🇦 🇫🇷 🇸🇪
 
 <p align="left"> 
