@@ -10,7 +10,7 @@
 - 🏫 Student @ John Abbott College
 - ☎️ Ex-Software Development Intern @ **[Bell](https://bell.ca)**
 - 🏒 Working on an NHL draft pick prediction model using ML
-- 💻 Finished my custom **[portfolio site](https://tjklint.github.io)**
+- 💻 Finished my custom **[portfolio site](https://tjklint.github.io)**!
 
 
 ### Let's Connect 🌐
