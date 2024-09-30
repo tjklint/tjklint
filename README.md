@@ -12,7 +12,6 @@
 - 🏒 Working on an NHL draft pick prediction model using ML
 - 💻 Finished my custom **[portfolio site](https://tjklint.github.io)**!
 
-
 ### Let's Connect 🌐
 - 📫 How to reach me: **timothyjklint@gmail.com**
 - 📄 Know about my experiences: **[tjklint.github.io](https://tjklint.github.io)**
