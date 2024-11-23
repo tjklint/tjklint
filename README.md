@@ -20,7 +20,6 @@
 
 ### Stats for Nerds 📊
 <p align="left">
-  <!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjklint&layout=compact&theme=tokyonight&langs_count=20&exclude_repo=CapitalCoach" alt="tjklint" /> -->
   
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=tjklint&show_icons=true&locale=en&theme=tokyonight&width=400&show=reviews" alt="tjklint" />
   
