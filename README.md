@@ -7,10 +7,10 @@
 </p>
 
 ### A Bit About Me 😎
-- 🏫 Student @ John Abbott College
-- ☎️ Ex-Software Development Intern @ **[Bell](https://bell.ca)**
-- 🏒 Working on an NHL draft pick prediction model using ML & an HTTP server in Go!
-- 🌐 Finished my custom **[portfolio site](https://tjklint.github.io)**!
+- ☎️ Full-Stack Developer @ [Botpress](https://botpress.com/) | Ex-SDE intern @ **[Bell](https://bell.ca)**
+- 🏫 Alumni @ John Abbott College
+- 🏒 Working on an NHL draft pick prediction model using ML & a Q#-powered options and puts classifier.
+- 🌐 Checkout my custom **[portfolio site](https://tjklint.github.io)**!
 
 ### Let's Connect 🌐
 - 📫 How to reach me: **timothyjklint@gmail.com**
