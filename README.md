@@ -9,7 +9,7 @@
 ### A Bit About Me 😎
 - ☎️ Full-Stack Developer @ [Botpress](https://botpress.com/) | Ex-SDE intern @ **[Bell](https://bell.ca)**
 - 🏫 Alumni @ John Abbott College
-- 🏒 Working on an NHL draft pick prediction model using ML & [a Q#-powered options and puts classifier.](https://github.com/tjklint/OptiQ)
+- 🏒 Working on an NHL draft pick prediction model using ML
 - 🌐 Checkout my custom **[portfolio site](https://tjklint.github.io)**!
 
 ### Let's Connect 🌐
