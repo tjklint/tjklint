@@ -6,7 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=tjklint&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjklint" />  
 </p>
 
-### I write a lot of code @ [Botpress](https://botpress.com/)
+### I write a lot of code @ [Planned](https://planned.com/)
+Prev @ [Botpress](https://botpress.com), [Bell](https://bell.ca), [CSE (Gov. Canada)](https://www.cse-cst.gc.ca/en)
 
 
 
