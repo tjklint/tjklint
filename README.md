@@ -41,4 +41,4 @@ Prev @ [Botpress](https://botpress.com), [Bell](https://bell.ca), [CSE (Gov. Can
 -->
   
 
-<h6>Want to support my work? Give me a ⭐ on the repos you like!</h6>
+<h5>Want to support my work? Give me a ⭐ on the repos you like!</h5>
