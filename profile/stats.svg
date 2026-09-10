@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">TJ Klint's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 182, Total Commits  (last year) : 1374, Total PRs: 1288, Total Issues: 322, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 182, Total Commits  (last year) : 1381, Total PRs: 1291, Total Issues: 322, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.310516836122215;
+        stroke-dashoffset: 22.292676429930044;
       }
     }
   
